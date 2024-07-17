@@ -1,0 +1,1 @@
+The code demonstrates a basic implementation of Quantum Key Distribution using the keypolarizer module. QKD is a method os securely distributing a secret key between 2 parties named as Alice and Bob using the principles of quantum mechanics.
